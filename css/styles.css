@@ -16,7 +16,8 @@ html, body {
 body {
     font-family: "Nunito", sans-serif;
     text-align: center;
-    background: rgba(235, 235, 235, 0.9);
+    background: url("../triangle-mosaic.png") repeat;
+    /* rgba(235, 235, 235, 0.9)  Background Image pattern from toptal.com */
 }
 
 header {
