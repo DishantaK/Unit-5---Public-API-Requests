@@ -150,5 +150,6 @@ Tasks left
 - filter collection on searchbar
 - right / left navigation on modal
 
+Correction - add exceeds as part of later study. Note to come back
 */
 
